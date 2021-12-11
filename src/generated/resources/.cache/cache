@@ -1,0 +1,6 @@
+74ab1ec84445dd1ca477e81deaf56300862a2438 assets/toolrack/blockstates/toolrack.json
+7da4844231072f380ae365bb77bc4ef0d233ba7b assets/toolrack/models/block/toolrack.json
+68cd76a6c23d7a337562f53de9a4b3e96efd654c assets/toolrack/models/item/toolrack.json
+fd3fef3c9a190163cefbb42046883e8efe8026a9 data/toolrack/advancements/recipes/toolrack/toolrack_1.json
+66efc42c530f278afc51c6ccd4f0fe423ecd9a09 data/toolrack/loot_tables/blocks/toolrack.json
+2f29e471262a3ddda0ef44a3506bf729ec86b365 data/toolrack/recipes/toolrack_1.json

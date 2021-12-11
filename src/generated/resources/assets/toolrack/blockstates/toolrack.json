@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "direction=down": {
+      "model": "toolrack:block/toolrack",
+      "x": 180
+    },
+    "direction=up": {
+      "model": "toolrack:block/toolrack"
+    },
+    "direction=north": {
+      "model": "toolrack:block/toolrack",
+      "x": 90
+    },
+    "direction=south": {
+      "model": "toolrack:block/toolrack",
+      "x": 90,
+      "y": 180
+    },
+    "direction=west": {
+      "model": "toolrack:block/toolrack",
+      "x": 90,
+      "y": 270
+    },
+    "direction=east": {
+      "model": "toolrack:block/toolrack",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
